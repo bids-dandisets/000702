@@ -35,7 +35,7 @@ assetsSummary:
   - ProcessingModule
   - Position
 citation: Balakrishnan, Kaarthik A; Haesemeyer, Martin (2025) Constant temperature
-  behavior 26C (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/000702/draft
+  behavior 26C (Version 0.250814.1914) [Data set]. DANDI Archive. https://doi.org/10.48324/dandi.000702/0.250814.1914
 contributor:
 - awardNumber: 5 R01 NS 123887-03
   name: National Institutes of Health (NIH)
@@ -59,14 +59,15 @@ contributor:
 dateCreated: '2023-11-11T15:57:54.754553+00:00'
 datePublished: '2025-08-14T19:14:27.248556+00:00'
 description: Fish swimming behavior in light at constant 26C
+doi: 10.48324/dandi.000702/0.250814.1914
 ethicsApproval: []
-id: DANDI:000702/draft
+id: DANDI:000702/0.250814.1914
 identifier: DANDI:000702
 keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000702/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000702/0.250814.1914/assets.yaml
 name: Constant temperature behavior 26C
 protocol: []
 publishedBy:
@@ -86,6 +87,6 @@ repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000702/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000702/0.250814.1914
+version: 0.250814.1914
 wasGeneratedBy: []
